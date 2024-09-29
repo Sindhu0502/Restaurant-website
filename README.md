@@ -1,2 +1,1 @@
 # Restaurant-website
-### Sindhuja project
